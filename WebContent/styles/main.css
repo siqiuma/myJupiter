@@ -57,7 +57,7 @@ ul {
 }
 
 #welcome-msg {
-	border-right: 1px solid #FFFFFF;
+	/**border-right: 1px solid #FFFFFF;*/
 	padding-right: 10px;
 }
 
